@@ -24,4 +24,7 @@ for i in range(nb):
     M=s/nb
     print("la moyenne est ",M)
 
-    #    
+    #la note maximal
+
+    mx = max(note)
+    print() 
